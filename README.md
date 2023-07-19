@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **SDI geoportal develpement**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m looking to collaborate on **any project**
 
 - 👨‍💻 All of my projects are available at [https://hemrajpandey.com.np/](https://hemrajpandey.com.np/)
 
