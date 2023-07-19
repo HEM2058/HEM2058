@@ -1,25 +1,38 @@
-### Hi there 👋, my name is Hem Raj Pandey
-#### I am working as Fullstack Developer(Django+React). I have experience in WebGIS Developement.
-![I am working as Fullstack Developer(Django+React). I have experience in WebGIS Developement.](https://github.com/HEM2058/HEM2058/blob/main/updated_thumbnail.jpg)
+<h1 align="center">Hi 👋, I'm Hem Raj Pandey</h1>
+<h3 align="center">A passionate fullstack developer from Nepal</h3>
 
- I am content creator at youtube.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hem2058&label=Profile%20views&color=0e75b6&style=flat" alt="hem2058" /> </p>
 
-Skills: Python(Django)/ REACT / JS / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hem2058" alt="hem2058" /></a> </p>
 
+- 🔭 I’m currently working on **SDI geoportal develpement**
 
+- 🌱 I’m currently learning **Machine Learning**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HEM2058)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hemrajpandey.com.np/)  
+- 👨‍💻 All of my projects are available at [https://hemrajpandey.com.np/](https://hemrajpandey.com.np/)
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+- 📝 I regularly write articles on [https://l.facebook.com/l.php?u=https%3A%2F%2Ftechnologynepal.hemrajpandey.com.np%2F%3Ffbclid%3DIwAR0fQzk4dH66kZslHJzadCc6M3DN0qlOlw4UxElo9hbGwCC62IGYRnnxXeg&h=AT1jRBMUoLSpEj4WeHErysMtO4vI8xqAjvtoqb9X0LKWduTqRdiVhwJ77Xqarw0oan_b_hKpeIQvauXLBj8oERJaY_jpNI7MsIcQyCtO2SlxFnZuyk7iT7wfcS6f8jWEg5xb3w](https://l.facebook.com/l.php?u=https%3A%2F%2Ftechnologynepal.hemrajpandey.com.np%2F%3Ffbclid%3DIwAR0fQzk4dH66kZslHJzadCc6M3DN0qlOlw4UxElo9hbGwCC62IGYRnnxXeg&h=AT1jRBMUoLSpEj4WeHErysMtO4vI8xqAjvtoqb9X0LKWduTqRdiVhwJ77Xqarw0oan_b_hKpeIQvauXLBj8oERJaY_jpNI7MsIcQyCtO2SlxFnZuyk7iT7wfcS6f8jWEg5xb3w)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/HEM2058)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **GIS, Django, Database, React**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/HEM2058&show_icons=true)  
+- 📫 How to reach me **hemrajpandeyd@gmail.com**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/HEM2058)  
+- 📄 Know about my experiences [https://hemrajpandey.com.np/files/Hem_Raj_resume.pdf](https://hemrajpandey.com.np/files/Hem_Raj_resume.pdf)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/HEM2058)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/hemrajpandey58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hemrajpandey58" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hem-raj-pandey-8b3a51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hem-raj-pandey-8b3a51197" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010977577563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010977577563" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hemraj170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hemraj170/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpfv6pytxehhco3soexyliq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpfv6pytxehhco3soexyliq" height="30" width="40" /></a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/HEM2058)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/HEM2058)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hem2058&show_icons=true&locale=en&layout=compact" alt="hem2058" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hem2058&show_icons=true&locale=en" alt="hem2058" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hem2058&" alt="hem2058" /></p>
