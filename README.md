@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hem2058&label=Profile%20views&color=0e75b6&style=flat" alt="hem2058" /> </p>
 
-- 🔭 I’m currently working on **SDI geoportal develpement**
+- 🔭 I’m currently working on **SDI geoportal developement**
 
 - 🌱 I’m currently learning **Machine Learning**
 
