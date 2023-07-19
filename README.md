@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **SDI geoportal develpement**
 
-- 👯 I’m looking to collaborate on **any project**
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **Any project**
 
 - 👨‍💻 All of my projects are available at [https://hemrajpandey.com.np/](https://hemrajpandey.com.np/)
 
@@ -17,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/hemrajpandey58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hemrajpandey58" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hem-raj-pandey-8b3a51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hem-raj-pandey-8b3a51197" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010977577563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010977577563" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hemraj170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hemraj170/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpfv6pytxehhco3soexyliq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpfv6pytxehhco3soexyliq" height="30" width="40" /></a>
+<a href="https://twitter.com/hemrajpandey58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemrajpandey58" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hem raj pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hem raj pandey" height="30" width="40" /></a>
+<a href="https://fb.com/hem raj pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hem raj pandey" height="30" width="40" /></a>
+<a href="https://instagram.com/hemraj170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemraj170" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/technology nepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technology nepal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
