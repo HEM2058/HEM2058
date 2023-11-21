@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hemrajpandey.com.np/](https://hemrajpandey.com.np/)
 
-- 💬 Ask me about **web-gis, web-mapping, web-developement, Geonode**
+- 💬 Ask me about **web-GIS, web-mapping, web-developement**
 
 - 📫 How to reach me **hemrajpandeyd@gmail.com**
 
