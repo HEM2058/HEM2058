@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hemrajpandeyd@gmail.com**
 
-- 📄 Know about my experiences [https://hemrajpandey.com.np/files/Hem_Raj_resume.pdf](https://hemrajpandey.com.np/files/Hem_Raj_resume.pdf)
+- 📄 Know about my experiences [https://hemrajpandey.com.np/files/Hem_Raj_resume.pdf](https://hemrajpandey.com.np/files/Hem-Pandey-cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
