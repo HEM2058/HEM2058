@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hemrajpandey58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemrajpandey58" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hem raj pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hem raj pandey" height="30" width="40" /></a>
+<a href="https://np.linkedin.com/in/hem-raj-pandey-8b3a51197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hem raj pandey" height="30" width="40" /></a>
 <a href="https://fb.com/hem raj pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hem raj pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/hemraj170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemraj170" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technology nepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technology nepal" height="30" width="40" /></a>
